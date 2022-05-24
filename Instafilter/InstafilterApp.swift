@@ -11,11 +11,11 @@ import SwiftUI
 struct InstafilterApp: App {
     var body: some Scene {
         WindowGroup {
-           // ContentView()
+            ContentView()
           //  PwrapperToStruct()
            // CoreImage()
             // UIViewController()
-            ImagePickerView()
+          //  ImagePickerView()
 
 
         }
